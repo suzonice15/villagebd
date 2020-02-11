@@ -1,0 +1,1 @@
+[23-Jun-2017 06:50:14 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/villageb/public_html/villageapp/modules/category/models/CategoryModel.php on line 3
